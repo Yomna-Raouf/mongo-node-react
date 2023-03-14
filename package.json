@@ -1,0 +1,20 @@
+{
+  "name": "mnr-main",
+  "version": "1.0.0",
+  "description": "Video Course (recorded August 2022): **[samer.dev/mnr](https://samer.dev/mnr)**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "prettier": "^2.8.4"
+  }
+}
